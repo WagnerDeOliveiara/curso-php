@@ -14,6 +14,7 @@ class Cliente
  * Faça um teste criando dois objetos da classe Cliente. Altere e exiba no Console os valores armazenados nos atributos desses objetos.
  */
 
+/*
 $cliente = new Cliente;
 $cliente->nome = "Rafael Cosentino";
 $cliente->codigo = 1;
@@ -28,3 +29,4 @@ echo "Codigo do cliente: $cliente->codigo" . PHP_EOL;
 
 echo "Nome do cliente: $cliente1->nome" . PHP_EOL;
 echo "Codigo do cliente: $cliente1->codigo" . PHP_EOL;
+*/
