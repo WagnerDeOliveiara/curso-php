@@ -11,7 +11,7 @@ class Agencia
 //com isso fica obrigado que seja passado esse argumento na criação do objeto(no new)
 public function __construct($numero)
 {
-  $this->foo = $foo;
+  $this->numero = $numero;
 }
 
 }
